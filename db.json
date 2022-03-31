@@ -24,6 +24,31 @@
       "id": 5,
       "nombre": "Establecer arquitectura",
       "descripcion": "Definir arquitectura para Arquitectura y Diseño de Software"
+    },
+    {
+      "id": 6,
+      "nombre": "Proyecto ReactJS",
+      "descripcion": "Terminar proyecto ReactJS"
+    },
+    {
+      "id": 7,
+      "nombre": "Curso de Python",
+      "descripcion": "Hacer ejercicios Python"
+    },
+    {
+      "id": 8,
+      "nombre": "Limpiar PC",
+      "descripcion": "Sacar polvo y limpiar teclado"
+    },
+    {
+      "id": 9,
+      "nombre": "Comprar comida",
+      "descripcion": "Comprar comida para almuerzos"
+    },
+    {
+      "id": 10,
+      "nombre": "Tanquear el carro",
+      "descripcion": "Meterle 50000 de gasolina al carro"
     }
   ]
 }

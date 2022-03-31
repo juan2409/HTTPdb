@@ -1,0 +1,29 @@
+{
+  "tareas": [
+    {
+      "id": 1,
+      "nombre": "Taller 4 ReactJS",
+      "descripcion": "Requests HTTP con Axios"
+    },
+    {
+      "id": 2,
+      "nombre": "Tarea Sistemas de Información",
+      "descripcion": "Elaborar Base de datos en Access"
+    },
+    {
+      "id": 3,
+      "nombre": "Parcial probabilidad",
+      "descripcion": "Perparar el parcial"
+    },
+    {
+      "id": 4,
+      "nombre": "Diseño HCI",
+      "descripcion": "Diseñar la página para HCI"
+    },
+    {
+      "id": 5,
+      "nombre": "Establecer arquitectura",
+      "descripcion": "Definir arquitectura para Arquitectura y Diseño de Software"
+    }
+  ]
+}
